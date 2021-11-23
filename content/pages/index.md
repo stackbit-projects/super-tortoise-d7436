@@ -1,5 +1,5 @@
 ---
-title: 'Sesión en '
+title: Sesión en pareja
 has_more_link: false
 seo:
   title: Stackbit Fjord Theme
