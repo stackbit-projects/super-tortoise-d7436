@@ -1,6 +1,5 @@
 ---
 date: '2020-01-11'
-content_img_path: images/10.jpg
 seo:
   title: Fox Village In Japan
   description: >-
