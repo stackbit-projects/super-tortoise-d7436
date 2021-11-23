@@ -1,5 +1,4 @@
 ---
-title: What Is Photography and What It Means To Me
 date: '2018-01-15'
 seo:
   title: What Is Photography and What It Means To Me
