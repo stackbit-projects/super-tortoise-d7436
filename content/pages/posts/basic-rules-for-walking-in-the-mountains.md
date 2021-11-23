@@ -40,6 +40,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: post
+thumb_img_path: /images/6jonyletiweb.jpg
 ---
 
 ![Hiking](/images/2.jpg)
