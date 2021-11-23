@@ -6,7 +6,6 @@ excerpt: >-
   means of an image sensor, or chemically by means of a light-sensitive material
   such as photographic film.
 date: '2018-01-15'
-content_img_path: images/8.jpg
 seo:
   title: What Is Photography and What It Means To Me
   description: A interesting tale about Photography and me
