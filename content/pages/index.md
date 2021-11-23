@@ -1,6 +1,6 @@
 ---
 title: 'Sesión en pareja '
-has_more_link: false
+has_more_link: true
 seo:
   title: Stackbit Fjord Theme
   description: The preview of the Fjord theme
