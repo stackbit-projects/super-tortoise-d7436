@@ -1,6 +1,6 @@
 ---
 title: Home
-has_more_link: true
+has_more_link: false
 seo:
   title: Stackbit Fjord Theme
   description: The preview of the Fjord theme
