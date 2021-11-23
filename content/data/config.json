@@ -4,7 +4,6 @@
     "palette": "yellow",
     "header": {
         "title": "Photo.CARL",
-        "tagline": "Minimal and clean blog theme",
         "logo_img_alt": "Fjord Logo",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
