@@ -1,5 +1,5 @@
 ---
-title: Sesion
+title: 'Sesión en '
 has_more_link: false
 seo:
   title: Stackbit Fjord Theme
