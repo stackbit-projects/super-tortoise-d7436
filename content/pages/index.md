@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Sesion
 has_more_link: false
 seo:
   title: Stackbit Fjord Theme
