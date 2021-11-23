@@ -70,5 +70,6 @@
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
     },
-    "domain": "https://super-tortoise-d7436.netlify.app"
+    "domain": "https://super-tortoise-d7436.netlify.app",
+    "favicon": "/images/IMG-20210109-WA0006.jpg"
 }
