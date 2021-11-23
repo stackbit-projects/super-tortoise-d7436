@@ -1,5 +1,5 @@
 ---
-title: 'Registrate y obten un 10% '
+title: 'Registrate y obtén un 10% '
 date: '2019-04-09'
 content_img_path: images/1.jpg
 seo:
