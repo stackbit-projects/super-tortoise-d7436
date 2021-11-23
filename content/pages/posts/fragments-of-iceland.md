@@ -1,5 +1,4 @@
 ---
-title: Fragments of Iceland
 date: '2018-01-09'
 thumb_img_alt: Icelandic horses
 hide_header: true
