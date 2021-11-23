@@ -6,13 +6,7 @@
         "title": "Photo.CARL",
         "logo_img_alt": "Fjord Logo",
         "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            }
-        ],
+        "nav_links": [],
         "has_social": true,
         "social_links": [
             {
